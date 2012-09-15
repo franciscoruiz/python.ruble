@@ -1,0 +1,3 @@
+en:
+  bundle_name: 'Python'
+  silence_pylint_problems_in_current_line: 'Silence Pylint problems in current line'
